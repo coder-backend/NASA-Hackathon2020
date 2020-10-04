@@ -37,6 +37,6 @@ Here you can see location of the all the users, and a message box where you can 
 
 And in the Home page you can also see a 'Contacts' button, so what it does is, it will sent the notification to  only those who are in your contact list
 
-Plus we have created a Fire Detection model, which will alert the authorities when fire take place, in this model we have included the smoke detetection also so that the authorites will get notify before fire show its aggressive nature.
+Plus we have created a Fire Detection model, which will automatically alert the people before fire take place, 
 
-If you want to see the video how it work the [click Here](Coming soon)
+Please [click Here](https://github.com/ashish807/NASA_Hackathon2020) for for details
