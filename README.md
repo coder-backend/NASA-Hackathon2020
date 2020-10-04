@@ -17,16 +17,17 @@ lets' dive into the app
 
 These are the login and signup page:
 
-![login](Images/login.jpeg)
-![signup](Images/signup.jpeg)
+![login](Images/login.jpeg)   ![signup](Images/signup.jpeg)
+
 
 Our app home screen looks like:
+
 ![home](Images/home.jpeg)
 
 So here you can see different buttons, 'Fire' buttons will give you the nearest fire brigade number similarly 'Police' button will give you the nearest police telephone number as and Similar thing goes to 'Hospital'
 
 If you look to the upper right corror of the home screen will see logo of two people and a + sign, if you click on that you will get something like:
-![contact](Images/contact)
+![contact](Images/contact.jpeg)
 
 Now here you can add your contacts, accodring to, to whom you want to sent the trouble message when your are in trouble.
 
@@ -35,6 +36,6 @@ Now the real magic is inside the 'SOS' button as soon as you click on the 'SOS' 
 
 Here you can see location of the all the users, and if you want to give alert message you can type that also, as soon as you click submit button, people around 20km from you will get the notification of your alert and message you typed.
 
-And in the Home page you can also see a 'Contacts' button, so what it does is it will sent the notification to those only are are the your contact list
+And in the Home page you can also see a 'Contacts' button, so what it does is, it will sent the notification to  only those who are in your contact list
 
 Plus we have created a Fire Detection model, which will alert the authorities whenever fire take place
