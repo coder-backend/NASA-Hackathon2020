@@ -37,7 +37,8 @@ Here you can see location of the all the users, and a message box where you can 
 
 And in the Home page you can also see a 'Contacts' button, so what it does is, it will sent the notification to  only those who are in your contact list
 
-Plus we have created a Fire Detection model, which will automatically alert the people before fire take place, 
+Plus we have created a Fire Detection model, which will automatically alert the people before fire take place,
+But you make ask why do we need the fire detection model in this project, and the answer is so far in order to alert people regarding the fire or say any other natural disasters, first we need some guy who must see those disasters happening and then he can alert, but what we thought is why don't we do all of this thing automatically or say why don't we use machine in order to do this. So we can't implement the model which will detect all the disasters and alert the people, but atleast we can do one, so we implemented this fire detection model. Main speciality about this model is it can detect the smoke also and alert the people around certain radius about fire. So we alert the people about fire before it actually happens
 ![FireDetected](Images/fire.png)
 ![SmokeDetected](Images/smoke.png)
 
