@@ -21,7 +21,7 @@ Our app home screen looks like:
 
 ![home](Images/home.jpeg)
 
-So here you can see different buttons, 'Fire' buttons will give you the nearest fire brigade number similarly 'Police' button will give you the nearest police telephone number and Similar thing goes to 'Hospital'
+So here you can see different buttons, 'Fire' button will give you the nearest fire brigade number similarly 'Police' button will give you the nearest police telephone number and Similar thing goes to 'Hospital'. All of these buttons calls their respective APIs
 
 If you look to the upper right corror of the home screen will see logo of two people and a + sign, if you click on that you will get something like:
 
@@ -33,7 +33,7 @@ Now the real magic is inside the 'SOS' button as soon as you click on the 'SOS' 
 
 ![SOS](Images/SOS.jpeg)
 
-Here you can see location of the all the users, and if you want to give alert message you can type that also, as soon as you click submit button, people around 20km from you will get the notification of your alert and message you typed.
+Here you can see location of the all the users, and a message box where you can type some messages like 'Help me I am in trouble'or'Fire is going to take place', as soon as you click the submit button, people around 20km from you will get the notification of your alert and message you typed.
 
 And in the Home page you can also see a 'Contacts' button, so what it does is, it will sent the notification to  only those who are in your contact list
 
