@@ -15,10 +15,7 @@ This project doesnot only stop here, suppose Earthquake measuring center got the
 
 lets' dive into the app
 
-These are the login and signup page:
-
-![login](Images/login.jpeg)   ![signup](Images/signup.jpeg)
-
+If you want to see how our login and signup page looks like then [click here](Images\)
 
 Our app home screen looks like:
 
