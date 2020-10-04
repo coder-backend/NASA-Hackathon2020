@@ -3,7 +3,7 @@ This project uses several APIs in order to ask for help with people nearby or co
 
 Sending an SOS messege to people nearby you.
 To contacts button that would send the message to your contacts about your location.
-Contacting to the nearest authority. Following is the screenshot of home page
+Contacting to the nearest authority.
 
 Main aim of this project is to spread the alert quickly among the large amount of people in the certain areas.
 
