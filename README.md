@@ -7,7 +7,7 @@ Contacting to the nearest authority.
 
 Main aim of this project is to spread the alert quickly among the large amount of people in the certain areas.
 
-Suppose the fire is going to take place in the building, now lets suppose someone in the building saw that fire is changing its status, like growing bigger and bigger so what he can do is open the app and he just has to do one click, alert meassage will be sent to all the people in the building, by this we can quickly and before the fire takes it massive appearence, we can empty the building and hence saving the lives
+Suppose the fire is going to take place in the building, now lets suppose someone in the building saw that fire is changing its status, like growing bigger and bigger so what he can do is open the app and all he needs to do is one click, then all the people in the building will get alert notification, by this we can quickly and before the fire takes it massive appearence,  can empty the building and hence saving the lives.
 
 This project doesnot only stop here, suppose Earthquake measuring center got the information for the computer that there will be a earthquake after 20 seconds (It might be like impossible to predict early on but lets suppose) then what they can be do is by just one tab they can notify people who are within 20km radius from the office, and people who got this notification again by one tab can sent the notification to people who are within 20km radius from sending person, by this we can notify the whole town at once. It might be different in real case scenario.
 
