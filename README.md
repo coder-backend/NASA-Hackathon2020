@@ -39,4 +39,4 @@ And in the Home page you can also see a 'Contacts' button, so what it does is, i
 
 Plus we have created a Fire Detection model, which will automatically alert the people before fire take place, 
 
-Please [click Here](https://github.com/ashish807/NASA_Hackathon2020) for for details
+Please [click Here](https://www.youtube.com/watch?v=LYBaioS2f00&feature=youtu.be&ab_channel=TowardsAI) for more details
