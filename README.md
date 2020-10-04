@@ -15,7 +15,7 @@ This project doesnot only stop here, suppose Earthquake measuring center got the
 
 lets' dive into the app
 
-If you want to see how our login and signup page looks like then [click here](Images\)
+If you want to see how our login and signup page looks like then [click here](https://github.com/ashish807/NASA_Hackathon2020/tree/main/Images)
 
 Our app home screen looks like:
 
