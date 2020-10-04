@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119825418654",
+    "firebase_url": "https://eadproject-75c1f.firebaseio.com",
+    "project_id": "eadproject-75c1f",
+    "storage_bucket": "eadproject-75c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119825418654:android:76c89a3e5e0b52e308ae8f",
+        "android_client_info": {
+          "package_name": "com.drunkonwords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119825418654-1c5930eeo3rflcg9t186jnud12rn6j86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHD-Xmae7trJUxrgkGDGo-DwRwuSC70vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119825418654-1c5930eeo3rflcg9t186jnud12rn6j86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
