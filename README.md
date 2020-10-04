@@ -38,5 +38,7 @@ Here you can see location of the all the users, and a message box where you can 
 And in the Home page you can also see a 'Contacts' button, so what it does is, it will sent the notification to  only those who are in your contact list
 
 Plus we have created a Fire Detection model, which will automatically alert the people before fire take place, 
+![FireDetected](Images/fire.png)
+![SmokeDetected](Images/smoke.png)
 
 Please [click Here](https://www.youtube.com/watch?v=LYBaioS2f00&feature=youtu.be&ab_channel=TowardsAI) for more details
