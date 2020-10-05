@@ -7,9 +7,9 @@ Contacting to the nearest authority.
 
 Main aim of this project is to spread the alert quickly among the large amount of people in the certain areas.
 
-Suppose the fire is going to take place in the building, now lets suppose someone in the building saw that fire is changing its status, like growing bigger and bigger so what he can do is open the app and all he needs to do is one click, then all the people in the building will get alert notification, by this we can quickly and before the fire takes it massive appearence,  can empty the building and hence saving the lives.
+Suppose the fire is going to take place in the building, now lets suppose someone in the building saw that fire is changing its status, like growing bigger and bigger so what he can do is open the app and all he needs to do is one click, then all the peoples in the building will get alert notification, by this we can quickly and before the fire takes it massive appearence, we can empty the building and hence saving the lives.
 
-This project doesnot only stop here, suppose Earthquake measuring center got the information from the computer that there will going occur a earthquake after 20 seconds (It might be like impossible to predict early on but lets suppose) then what they can be do is by just one tab they can notify people who are within 20km radius from the office, and people who got this notification again by one tab can sent the notification to people who are within 20km radius from sending person, by this we can notify or alert the whole town at once. It might be different in real case scenario because earthquake is so suddenness thing its like a snap just happen but main idea is we can connect while town with just a one click.
+This project doesn't only stop here, suppose Earthquake measuring center got the information from the computer that there will going to occur a earthquake after 20 seconds (Its might be like impossible to predict early on but lets suppose) then just by one tab or one click they can notify or say alert peoples who are within specified radius(Eg:10km) from the office, and peoples who ever got this notification again by one tab can sent the same notification to other peoples who are within specified radius from them, by this we can notify or alert the whole town at once. It might be different in real case scenario because earthquake is so suddenness activity its like a snap, it will just happen but the main idea is we can connect while town with just a one click.
 
 ![connecting](Images/connect.jpg)
 
@@ -37,8 +37,11 @@ Here you can see location of the all the users, and a message box where you can 
 
 And in the Home page you can also see a 'Contacts' button, so what it does is, it will sent the notification to  only those who are in your contact list
 
-Plus we have created a Fire Detection model, which will automatically alert the people before fire take place,
-But you make ask why do we need the fire detection model in this project, and the answer is so far in order to alert people regarding the fire or say any other natural disasters, first we need some guy who must see those disasters happening and then he can alert, but what we thought is why don't we do all of this thing automatically or say why don't we use machine in order to do this. We can't implement the model which will detect all the disasters and alert the people, but atleast we can do one, so we implemented this fire detection model. Main speciality about this model is it can detect the smoke also and alert the people around certain radius about fire. So we alert the people about fire before it actually happens
+Plus we have created a Fire Detection model, which will automatically alert the peoples.
+
+But you may ask why do we even need the fire detection model in this project?, and the answer is, so far in order to alert peoples regarding the fire or say any other disasters, we assume that there is a person who is seeing that disasters happening live or get some scence that something bad is going to happen, then only he will sent alert to others,
+but what if nobody is seeing that disasters taking its massive or aggresive apperance then our Apps does not help to save lives right? So we thought why don't we allow machine to handle all of these stuff, I mean let machine decide when to send alert, so there shouldn't necessary be presence of human in order to send alert messages. So built a Fire detection Machine Learning model which will detect fire and smoke. So idea here is machine will detect the fire and sends the alert message accordingly, and good factor about this model is, it can even detect the smoke so this also can send alert message when it detect smoke. So by this we can empty the building before fire take place and we can use 
+Fire extinguisher in time and prevent from massive fire and saves the money, lives.
 ![FireDetected](Images/fire.png)
 ![SmokeDetected](Images/smoke.png)
 
