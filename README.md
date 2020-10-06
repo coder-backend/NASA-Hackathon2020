@@ -1,6 +1,8 @@
 # NASA_Hackathon2020
 
 # Better Together
+Click [here](https://www.youtube.com/watch?v=LYBaioS2f00&feature=youtu.be&ab_channel=TowardsAI) for video
+
 This project uses several APIs in order to ask for help with people nearby or contact your local authorities.There are three major features:
 
 Sending an SOS messege to people nearby you.
