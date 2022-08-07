@@ -3,11 +3,11 @@
 # Better Together
 Click [here](https://www.youtube.com/watch?v=LYBaioS2f00&feature=youtu.be&ab_channel=TowardsAI) to see implementation of our project
 
-This project uses several APIs in order to ask for help with people nearby or contact your local authorities.There are three major features:
+This project uses several APIs that facilate to contact your local authorities.There are three major features:
 
 Sending an SOS messege to people nearby you.
-To contacts button that would send the message to your contacts about your location.
-Contacting to the nearest authority.
+Buttons that will send help message to all people listed on your contact list, with your GPS location
+Contacting to the nearest authority, with your GPS location.
 
 Main aim of this project is to spread the alert quickly among the large amount of people in the certain areas.
 
