@@ -1,5 +1,7 @@
 # NASA_Hackathon2020
 
+Profile Link: [https://2020.spaceappschallenge.org/challenges/confront/better-together/teams/mere-mortals/project](https://2020.spaceappschallenge.org/challenges/confront/better-together/teams/mere-mortals/project)
+
 # Better Together
 Click [here](https://www.youtube.com/watch?v=LYBaioS2f00&feature=youtu.be&ab_channel=TowardsAI) to see implementation of our project
 
